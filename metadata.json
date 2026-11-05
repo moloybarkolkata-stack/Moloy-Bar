@@ -1,0 +1,6 @@
+{
+  "name": "AquaFlora জলজ উদ্ভিদ",
+  "description": "বিশ্বজুড়ে জলজ উদ্ভিদের বিস্তৃত বাংলা গবেষণা, ট্যাক্সোনমি, ডাইমরফিজম ও ইনফোগ্রাফিক বিশ্বকোষ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
